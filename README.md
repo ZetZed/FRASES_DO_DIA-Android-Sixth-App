@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/60768726/121701811-ad410200-caa7-11eb-9e2d-326f248663bf.png">
+
 # FRASES DO DIA
 
 Olá a todos!👋  
@@ -12,3 +14,5 @@ A idéia principal é pegar alguns conceitos como:
 * onCLick  - Ao clicar no botão, pegar a função selecionada. 
 
 É simples, mas já sinto feliz em estar aprendendo🙏
+
+<img src="https://user-images.githubusercontent.com/60768726/121701811-ad410200-caa7-11eb-9e2d-326f248663bf.png">
