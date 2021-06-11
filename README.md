@@ -1,4 +1,4 @@
-# FRASES DO DIA-Android-Sixth-App
+# FRASES DO DIA
 
 Olá a todos!👋  
 
