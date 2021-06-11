@@ -4,7 +4,7 @@ Olá a todos!👋
 
 Comecei a estudar as linguagens Java e Kotlin com o propósito de aprender a criar aplicativos Android e este é o meu SEXTO aplicativo.  
 
-Se trata de um app simples que ao apertar o botão "Nova Frase" aparece uma mensagem aleatória. 
+Se trata de um app simples que ao apertar o botão "Nova Frase" aparece uma frase aleatória. 
 
 A idéia principal é pegar alguns conceitos como:  
 * Array (contendo as mensagens) 
