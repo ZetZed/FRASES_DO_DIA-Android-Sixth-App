@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/60768726/121701811-ad410200-caa7-11eb-9e2d-326f248663bf.png" width="30px">
+<img src="https://user-images.githubusercontent.com/60768726/121701811-ad410200-caa7-11eb-9e2d-326f248663bf.png" width="100px">
 
 # FRASES DO DIA
 
