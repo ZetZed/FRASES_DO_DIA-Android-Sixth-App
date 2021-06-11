@@ -8,7 +8,7 @@ Se trata de um app simples que ao apertar o botão "Nova Frase" aparece uma fras
 
 A idéia principal é pegar alguns conceitos como:  
 * Array (contendo as mensagens) 
-* Random - Selecionar os valores do Array de forma aleatórios 
+* Random - Selecionar os valores do Array de forma aleatória 
 * onCLick  - Ao clicar no botão, pegar a função selecionada. 
 
 É simples, mas já sinto feliz em estar aprendendo🙏
