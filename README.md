@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/60768726/121701811-ad410200-caa7-11eb-9e2d-326f248663bf.png">
+<img src="https://user-images.githubusercontent.com/60768726/121701811-ad410200-caa7-11eb-9e2d-326f248663bf.png" width="30px">
 
 # FRASES DO DIA
 
@@ -15,4 +15,4 @@ A idéia principal é pegar alguns conceitos como:
 
 É simples, mas já sinto feliz em estar aprendendo🙏
 
-<img src="https://user-images.githubusercontent.com/60768726/121701811-ad410200-caa7-11eb-9e2d-326f248663bf.png">
+<img src="https://user-images.githubusercontent.com/60768726/121701681-871b6200-caa7-11eb-98df-bfae868f1c22.jpeg">
